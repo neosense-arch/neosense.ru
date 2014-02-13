@@ -122,7 +122,7 @@ ul li,ol li{
 .header .email{
 	white-space:nowrap;
 	float:right;
-	background:url(../icons1/mail-orange-16.png) 30px center no-repeat;
+	background:url(../images/ui/mail-orange-16.png) 30px center no-repeat;
 	height: 70px;
 }
 .header .email a {
@@ -597,11 +597,11 @@ img.block{
     margin-top: -40px;
 }
 .slider-button-next {
-    background-image: url(../icons1/arrow-right-64.png);
+    background-image: url(../images/ui/arrow-right-64.png);
     right: 0;
 }
 .slider-button-prev {
-    background-image: url(../icons1/arrow-left-64.png);
+    background-image: url(../images/ui/arrow-left-64.png);
     left: 0;
 }
 .slider-pagination {
