@@ -1,0 +1,35 @@
+body {
+    background: #A3E0EE;
+}
+a {
+    color: #ff7800;
+    text-decoration: underline;
+    -webkit-transition: none;
+    transition: none;
+}
+.orange {
+    color: #ff7800;
+}
+.navbar-inverse {
+    background: #000;
+    border-radius: 0;
+}
+.navbar-inverse a {
+    color: #aaa !important;
+    text-decoration: none;
+}
+.navbar-inverse a:hover,
+.navbar-inverse a:focus {
+    color: #ff7800 !important;
+}
+.navbar-inverse .navbar-nav > li > a {
+    font-size: 14px;
+    font-weight: normal;
+}
+.navbar-inverse .navbar-nav .glyphicon {
+    top: 2px;
+}
+.navbar-inverse .navbar-brand img {
+    position: relative;
+    top: -3px;
+}
